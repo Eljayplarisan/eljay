@@ -1,5 +1,5 @@
 
-package repo.pkg1;
+package Main;
 
 import java.util.Scanner;
 
